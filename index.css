@@ -1,0 +1,75 @@
+ .container{
+    
+    display: grid;
+    place-items: center;
+}
+
+.titolo{
+    text-align: center;
+    background-color: #fee996; 
+    padding: 10px 20px; 
+}
+
+
+#focaccia{
+    text-align: center;
+}
+
+
+.paragrafo{
+   text-align: center;
+   color: grey;
+   
+}
+
+.f{
+    position: relative;
+  top: 20px;
+  left: 550px;
+  color: rgb(251, 22, 22);
+
+  
+   
+    
+}
+
+.s{
+    border-left:solid ;
+    color: yellow;
+}
+    
+
+
+#fresh{
+    position: relative;
+    top: 20px;
+  left: 550px;
+}
+
+
+h2,.h{
+    position: relative;
+    top: 20px;
+  left: 500px;
+}
+
+.u{
+    position: relative;
+    top: 20px;
+    left: 490px;
+}
+
+
+#h2{
+    position: relative;
+    top: 20px;
+    left: 530px;
+}
+
+.g{
+    position: relative;
+    text-align: left;
+    top: 20px;
+    left: 550px;
+}
+
